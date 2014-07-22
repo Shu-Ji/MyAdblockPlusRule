@@ -14,3 +14,7 @@ www.baidu.com###u_sp
 www.baidu.com###u
 www.baidu.com##.extquery
 www.baidu.com###foot
+
+!--------------------网易博客-------------------!
+!------------------blog.163.com----------------!
+blog.163.com###blog-163-com .nbw-3e

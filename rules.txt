@@ -10,5 +10,7 @@
 !------------------baidu.com----------------!
 www.baidu.com###bottom_container
 www.baidu.com###u_sp
-www.baidu.com/s*###u
-www.baidu.com##.extquery
+
+www.baidu.com\/s*###u
+www.baidu.com\/s##.extquery
+www.baidu.com\/s###foot

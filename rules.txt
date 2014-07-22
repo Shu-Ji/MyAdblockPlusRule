@@ -11,6 +11,6 @@
 www.baidu.com###bottom_container
 www.baidu.com###u_sp
 
-www.baidu.com*###u
+www.baidu.com###u
 www.baidu.com##.extquery
 www.baidu.com###foot

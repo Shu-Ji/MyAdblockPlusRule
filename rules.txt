@@ -17,4 +17,4 @@ www.baidu.com###foot
 
 !--------------------网易博客-------------------!
 !------------------blog.163.com----------------!
-blog.163.com###blog-163-com
+163.com###blog-163-com .nbwinascard.nbw-3e.nbw-win.nbwindow

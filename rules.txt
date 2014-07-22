@@ -12,7 +12,6 @@
 !------------------baidu.com----------------!
 !---首页---!
 www.baidu.com###bottom_container
-www.baidu.com###s_nall_tabs a:eq(1)
 www.baidu.com###u_sp
 
 !---搜索页---!
